@@ -18,3 +18,10 @@ Bu proje sayesinde 2D oyun geliştirme süreçlerine dair temel bilgileri öğre
 
 Oyunun Amacı  
 - 2 Farklı oyuncunun sabit bir top atışı ile aradaki engelleri ve kutuları aşarak birbirlerinin canlarını azaltıyorlar. İlk canı biten oyuncu oyunu kaybeder.
+
+- Main Menu
+- ![MainMenu](https://github.com/user-attachments/assets/3a51b3c7-a288-4ccf-8856-7b3d87031ecf)
+
+- In Game
+- ![InGame](https://github.com/user-attachments/assets/2add52a8-9109-484b-996f-d3390f537bcf)
+
