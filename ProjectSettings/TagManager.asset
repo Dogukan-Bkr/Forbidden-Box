@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1_Tower
+  - Player2_Tower
+  - FxTemporaire
+  - boxInMiddle
+  - Ground
+  - Player1
+  - Player2
+  - PlayerPoint_1
+  - PlayerPoint_2
+  - playerWaiting
+  - Player1_Name
+  - Player2_Name
+  - PowerBar
+  - WoodBarrier
+  - Prize
+  - server_Information
+  - save_Username
+  - start_Game
+  - create_Lobby
+  - bomb
+  - endOfGamePanel
+  - endGameInformation
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
